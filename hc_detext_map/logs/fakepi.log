@@ -1,0 +1,1 @@
+fake_pi: scenario=pickup store=store-001 cameras=6 source=backend current map
