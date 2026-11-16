@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+outputs/
+self_check_aoi.json
+detector_config/camera_bindings.json
+runtime_logs/
