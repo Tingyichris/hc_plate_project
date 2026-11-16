@@ -1,4 +1,0 @@
-cv2-enumerate-cameras==1.4.0
-paho-mqtt>=2.0,<3
-numpy>=1.26
-opencv-python>=4.10
