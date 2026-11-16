@@ -1,5 +1,5 @@
 # Projects below maintain their own Git repositories.
-/plate_distance_self_check/
+/plate_detect/
 /jev_model/
-/hc_detext_map/
+/hc_detect_map/
 
