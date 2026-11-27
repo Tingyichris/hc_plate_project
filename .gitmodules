@@ -1,0 +1,9 @@
+[submodule "hc_vision_api"]
+	path = hc_vision_api
+	url = https://github.com/Tingyichris/hc_vision_api.git
+[submodule "hc_detect_map"]
+	path = hc_detect_map
+	url = https://github.com/Tingyichris/hc_detect_map.git
+[submodule "plate_detect"]
+	path = plate_detect
+	url = https://github.com/Tingyichris/hc_plate_detect.git

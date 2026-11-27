@@ -1,5 +1,2 @@
-# Projects below maintain their own Git repositories.
-/plate_detect/
-/jev_model/
-/hc_detect_map/
+# Projects below are tracked as Git submodules.
 
